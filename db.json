@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "name": "Casual T-shirt",
+      "price": "$500",
+      "brand": "Nike",
+      "inventoryStatus": true,
+      "id": 2
+    },
+    {
+      "name": "haha",
+      "price": "$100",
+      "brand": "tore",
+      "inventoryStatus": true,
+      "id": 8
+    },
+    {
+      "name": "vuex cool",
+      "price": "$500",
+      "brand": "vuejs",
+      "inventoryStatus": true,
+      "id": 9
+    },
+    {
+      "name": "vuerules",
+      "price": "$400",
+      "brand": "vuex",
+      "inventoryStatus": true,
+      "id": 10
+    },
+    {
+      "name": "dfaafa",
+      "price": "$433",
+      "brand": "aaaaa",
+      "inventoryStatus": true,
+      "id": 11
+    },
+    {
+      "name": "testing",
+      "price": "$666",
+      "brand": "whynowork",
+      "inventoryStatus": false,
+      "id": 12
+    },
+    {
+      "name": "now will work",
+      "price": "$100",
+      "brand": "yes?",
+      "inventoryStatus": false,
+      "id": 13
+    },
+    {
+      "name": "testafda",
+      "price": "$2222",
+      "brand": "fafa",
+      "inventoryStatus": true,
+      "id": 14
+    },
+    {
+      "name": "Stella kingitus",
+      "price": "$5000",
+      "brand": "Pony",
+      "inventoryStatus": true,
+      "id": 15
+    },
+    {
+      "name": "hoo",
+      "price": "$400",
+      "brand": "haaa",
+      "inventoryStatus": false,
+      "id": 16
+    },
+    {
+      "name": "fafa",
+      "price": "$300",
+      "brand": "tere",
+      "inventoryStatus": false,
+      "id": 17
+    },
+    {
+      "name": "testing",
+      "price": "$100",
+      "brand": "pleasework",
+      "inventoryStatus": true,
+      "id": 18
+    },
+    {
+      "name": "toaster",
+      "price": "$99",
+      "brand": "Jura",
+      "inventoryStatus": true,
+      "id": 19
+    },
+    {
+      "name": "putka",
+      "price": "$300",
+      "brand": "jaa",
+      "inventoryStatus": false,
+      "id": 20
+    },
+    {
+      "name": "sdfa",
+      "price": "$299",
+      "brand": "ohhoo",
+      "inventoryStatus": true,
+      "id": 21
+    },
+    {
+      "name": "hho",
+      "price": "$300",
+      "brand": "nana",
+      "inventoryStatus": true,
+      "id": 22
+    }
+  ]
+}
